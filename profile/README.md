@@ -8,7 +8,7 @@
 
 **We Engineer AI to Innovate and Drive Growth**
 
-Welcome to the official GitHub page of **[Your Organization Name]**! We are passionate about solving problems and driving change through open-source collaboration, innovative projects, and cutting-edge technologies.
+Welcome to the official GitHub page of **Standord PVT LTD**! We are passionate about solving problems and driving change through open-source collaboration, innovative projects, and cutting-edge technologies.
 
 ---
 
